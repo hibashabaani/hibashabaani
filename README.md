@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail" height="30" width="30" /></a>
+  <a href="mailto:hibashabaani@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/your-profile" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30" /></a>
 </p>
 
