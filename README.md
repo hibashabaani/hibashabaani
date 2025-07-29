@@ -1,15 +1,15 @@
-<h1 align="center">مرحبا 👋 أنا هبة الشباني</h1>
-<h3 align="center">طالبة هندسة برمجيات ✨ وطموحة في مجال تطوير الواجهات الأمامية</h3>
+<h1 align="center">Hi there 👋 I'm Hiba Shabaani</h1>
+<h3 align="center">A Software Engineering student passionate about Frontend Development ✨</h3>
 
 <p align="center">
-  🌱 أتعلم حاليًا HTML، CSS، و JavaScript في طريقي لأصبح Frontend Developer<br>
-  🎓 أدرس في كلية تقنية المعلومات وأسعى لترك بصمتي في عالم البرمجة<br>
-  💡 أؤمن أن التغيير يبدأ من النفس، والتعلم هو أول الطريق 🌼
+  🌱 Currently learning HTML, CSS, and JavaScript on my journey to become a Frontend Developer<br>
+  🎓 I’m studying at the Faculty of Information Technology, aiming to leave a positive mark in the coding world<br>
+  💡 I believe change starts from within — and learning is the first step 🌼
 </p>
 
 ---
 
-### 💻 المهارات التي أتعلمها حالياً:
+### 💻 Currently Exploring:
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
@@ -19,17 +19,17 @@
 
 ---
 
-### 📫 للتواصل معي:
+### 📫 How to reach me:
 
 <p align="center">
-  ✉️ <b>hiba.yourmail@example.com</b> <br>
-  💼 [LinkedIn](https://www.linkedin.com/in/hibashabaani) *(إن رغبتِ بإضافته لاحقًا)*<br>
-  📍 ليبيا - أحلم أن أصنع تأثيرًا عالميًا من هنا 🌍
+  ✉️ <b>hiba.yourmail@example.com</b><br>
+  💼 [LinkedIn](https://www.linkedin.com/in/hibashabaani) *(Add it later when you're ready)*<br>
+  📍 Libya — dreaming of making a global impact from here 🌍
 </p>
 
 ---
 
 <p align="center">
-  شكراً لزيارتك لصفحتي 🌸 <br>
-  <i>"ما دمتَ تسير، فأنت على الطريق الصحيح!"</i>
+  Thanks for stopping by 🌸 <br>
+  <i>"As long as you keep moving forward, you’re on the right path."</i>
 </p>
