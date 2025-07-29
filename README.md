@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlignY=35&desc=Aspiring%20Developer%20Engineer%20|%20Future%20Innovator%20|%20Coding%20My%20Way%20Forward&descAlignY=60&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlignY=35&desc=Aspiring%20Developer%20Engineer%20|%20Future%20Innovator%20|%20Coding%20My%20Way%20Forward&descAlignY=60&descAlign=62"/>
 </div>
 
 <h1 align="center">Hi there 👋 I'm Hiba</h1>
@@ -32,8 +32,9 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
 </div>
+
 
 
 
