@@ -1,68 +1,61 @@
-<div align="center" width="100%">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
-
----
-
-<h2>Welcome to My GitHub! I'm Hiba Shabaani 👋</h2>
-<p>
-  🌱 Frontend Developer in the making<br>
-  🎓 Software Engineering Student<br>
-  🌍 Based in Libya – dreaming globally<br>
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=hibashabaani&style=flat&color=orange&label=PROFILE+VIEWS)
-
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat&logo=telegram)](https://t.me/yourtelegramusername)
-
-</div>
-
----
-
-### 🧰 Tools & Technologies
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hibashabaani&show_icons=true&theme=rose_pine" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibashabaani&layout=compact&theme=rose_pine" alt="Top Languages" width="45%"/>
-</p>
-
----
-
-### 🎧 Currently Learning & Vibing To:
-<details>
-  <summary>Show Spotify Status</summary>
-  
-  [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
-</details>
-
----
-
-### 🧠 Fun Section: Code Life
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It works and no one knows why!"/>
-
-</div>
-
----
+<h1 align="center">Hi there 👋, I'm Hiba Shabaani</h1>
+<h3 align="center">A passionate frontend learner and future software engineer</h3>
 
 <p align="center">
-  <i>"Keep learning. Keep growing. The journey is just beginning." 🌱</i>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
+
+---
+
+- 🔭 I’m currently studying Software Engineering
+- 🌱 I’m learning Frontend Development (HTML, CSS, JS... and beyond!)
+- 🌟 Passionate about building useful and elegant solutions
+- 💬 Ask me about learning paths or where to start — I'm in the journey too!
+- 📫 How to reach me: [hiba.shabaani@example.com](mailto:hiba.shabaani@example.com)
+
+---
+
+### 🌸 About Me
+> "Driven by curiosity, shaped by discipline, and guided by purpose. I believe small consistent steps lead to remarkable outcomes."
+
+> "Code is not just lines — it's how I craft meaning from logic and give it life."
+
+> "In a world full of noise, I choose to build — thoughtfully, creatively, and intentionally."
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hibashabaani&show_icons=true&theme=calm" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibashabaani&layout=compact&theme=calm" />
+</p>
+
+---
+
+### 🎧 Now Playing
+[![Spotify](https://novatorem-seven-black.vercel.app/api/spotify)](https://open.spotify.com/user/31rxxo4mct5ju7abefzpxe2a2u4e)
+
+---
+
+### 🤝 Let's Connect
+<p align="left">
+  <a href="mailto:hiba.shabaani@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hiba-shabaani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">✨ Keep going, you're growing ✨</p>
+
 
