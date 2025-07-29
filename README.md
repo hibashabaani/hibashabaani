@@ -1,35 +1,44 @@
 <h1 align="center">Hi there 👋 I'm Hiba Shabaani</h1>
-<h3 align="center">A Software Engineering student passionate about Frontend Development ✨</h3>
+<h3 align="center">✨ A Software Engineering student exploring the magic of Frontend Development ✨</h3>
 
 <p align="center">
-  🌱 Currently learning HTML, CSS, and JavaScript on my journey to become a Frontend Developer<br>
-  🎓 I’m studying at the Faculty of Information Technology, aiming to leave a positive mark in the coding world<br>
-  💡 I believe change starts from within — and learning is the first step 🌼
+  🌱 Currently learning HTML, CSS, and JavaScript<br>
+  🎓 Studying at the Faculty of Information Technology<br>
+  💫 Passionate about building beautiful and meaningful user interfaces<br>
+  🧠 Believer in growth, self-learning, and quiet progress
 </p>
 
 ---
 
-### 💻 Currently Exploring:
+### 💻 Tools & Technologies I'm Learning:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge"/>
 </p>
 
 ---
 
-### 📫 How to reach me:
+### 📫 Contact Me:
 
 <p align="center">
   ✉️ <b>hiba.yourmail@example.com</b><br>
-  💼 [LinkedIn](https://www.linkedin.com/in/hibashabaani) *(Add it later when you're ready)*<br>
-  📍 Libya — dreaming of making a global impact from here 🌍
+  💼 <i>LinkedIn link coming soon...</i><br>
+  📍 Based in Libya, dreaming globally 🌍
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=rose_pine" alt="GitHub Stats" />
 </p>
 
 ---
 
 <p align="center">
-  Thanks for stopping by 🌸 <br>
-  <i>"As long as you keep moving forward, you’re on the right path."</i>
+  🌸 Thank you for visiting my profile! <br>
+  <i>"Keep learning. Keep growing. Your path is your own 🌱"</i>
 </p>
